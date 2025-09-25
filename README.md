@@ -13,7 +13,7 @@
 
 ## Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS, Framer Motion (for animations)
+- **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
 - **AI API**: Gemini API for generating LaTeX code
 - **Document Formatting**: LaTeX
